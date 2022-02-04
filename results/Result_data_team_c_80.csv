@@ -1,0 +1,13 @@
+,project,c_size,c_experienced,c_inexperienced
+0,Processed_data/role-strategy-plugin_final_results.pkl,36,0.33,0.6
+1,Processed_data/scm-sync-configuration-plugin_final_results.pkl,21,0.55,0.72
+2,Processed_data/prettytime_final_results.pkl,73,0.5,1.0
+3,Processed_data/violations-plugin_final_results.pkl,43,0.27,1.0
+4,Processed_data/artifactory-plugin_final_results.pkl,73,0.58,0.5
+5,Processed_data/subversion-plugin_final_results.pkl,80,0.5,0.5
+6,Processed_data/solr-for-wordpress_final_results.pkl,13,0.36,0.83
+7,Processed_data/logplex_final_results.pkl,34,0.44,0.44
+8,Processed_data/cobertura-plugin_final_results.pkl,54,0.57,0.67
+9,Processed_data/buddypress-group-email-subscription_final_results.pkl,17,0.33,0.57
+10,Processed_data/github-plugin_final_results.pkl,62,0.44,0.5
+11,Processed_data/tfs-plugin_final_results.pkl,36,0.55,0.5
