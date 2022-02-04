@@ -6,4 +6,4 @@ Herbsleb argues that if  code is strongly connected yet their developers are not
 
 Hence we say that debates over the merits of ``hero-ness'' is subtly misguided. Our results suggest that the real benefits of these so-called ``heroes'' is not so much the code they generate but the pattern of communication required when  the interaction between a large community of programmers passes through a small group of centralized developers. To say that another way, {\em to build better code, build better communication flows between core developers and the rest}.
 
-In order to allow other researchers to confirm/improve/refute our results, all our scripts and data are available, on-line at  \href{https://github.com/Repoanonymous/MSR2021}{https://github.com/Repoanonymous/MSR2021}.
+In order to allow other researchers to confirm/improve/refute our results, all our scripts and data are available, on-line at  \href{https://github.com/Anonymous633671/A-Comparison-on-Communication-and-Code-Dependency-Effects-on-Software-Code-Quality}{https://github.com/Anonymous633671/A-Comparison-on-Communication-and-Code-Dependency-Effects-on-Software-Code-Quality}.
