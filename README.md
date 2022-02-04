@@ -1,1 +1,9 @@
-# MSR2021
+# A Comparison on Communication and Code Dependency Effects on Software Code Quality: An Empirical Analysis of Herbsleb Hypothesis
+ 
+ Prior literature has suggested that in many projects 80\% or more of the contributions are made by a small so-called group of  20% ``hero'' developers.  Most prior studies deprecate a reliance on  ``heroes'', arguing that it causes bottlenecks in development and communication. Nevertheless, our results show that``hero projects'' (where most of the code comes from very few people) are very   common   in open source  projects.  So what exactly is the impact of ``heroes'' in code quality?
+
+Herbsleb argues that if  code is strongly connected yet their developers are not, then that code will be buggy. To test the Hersleb hypothesis,   we develop  and apply two metrics of (a)~``social-ness' and (b)~``hero-ness'' that measure  (a)~how much one developer comments on the issues of another; and (b)~how much one developer changes another developer's code (and ``heroes'' are those that change the most code, all around the system). In a result endorsing the Hersleb hypothesis, in over 1000 open source projects, we find that ``social-ness'' is a statistically stronger indicate for code quality (number of bugs) than ``hero-ness''.   
+
+Hence we say that debates over the merits of ``hero-ness'' is subtly misguided. Our results suggest that the real benefits of these so-called ``heroes'' is not so much the code they generate but the pattern of communication required when  the interaction between a large community of programmers passes through a small group of centralized developers. To say that another way, {\em to build better code, build better communication flows between core developers and the rest}.
+
+In order to allow other researchers to confirm/improve/refute our results, all our scripts and data are available, on-line at  \href{https://github.com/Repoanonymous/MSR2021}{https://github.com/Repoanonymous/MSR2021}.
